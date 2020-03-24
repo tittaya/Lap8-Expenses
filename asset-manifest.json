@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tittaya/Lap8-Expenses/static/css/main.4851e9fc.chunk.css",
+    "main.js": "/tittaya/Lap8-Expenses/static/js/main.317cdfe0.chunk.js",
+    "main.js.map": "/tittaya/Lap8-Expenses/static/js/main.317cdfe0.chunk.js.map",
+    "runtime-main.js": "/tittaya/Lap8-Expenses/static/js/runtime-main.553e2319.js",
+    "runtime-main.js.map": "/tittaya/Lap8-Expenses/static/js/runtime-main.553e2319.js.map",
+    "static/js/2.b1bb107e.chunk.js": "/tittaya/Lap8-Expenses/static/js/2.b1bb107e.chunk.js",
+    "static/js/2.b1bb107e.chunk.js.map": "/tittaya/Lap8-Expenses/static/js/2.b1bb107e.chunk.js.map",
+    "index.html": "/tittaya/Lap8-Expenses/index.html",
+    "precache-manifest.545bf59deadf10393c8578c08856a606.js": "/tittaya/Lap8-Expenses/precache-manifest.545bf59deadf10393c8578c08856a606.js",
+    "service-worker.js": "/tittaya/Lap8-Expenses/service-worker.js",
+    "static/css/main.4851e9fc.chunk.css.map": "/tittaya/Lap8-Expenses/static/css/main.4851e9fc.chunk.css.map",
+    "static/js/2.b1bb107e.chunk.js.LICENSE.txt": "/tittaya/Lap8-Expenses/static/js/2.b1bb107e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.553e2319.js",
+    "static/js/2.b1bb107e.chunk.js",
+    "static/css/main.4851e9fc.chunk.css",
+    "static/js/main.317cdfe0.chunk.js"
+  ]
+}
